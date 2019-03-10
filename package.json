@@ -1,0 +1,21 @@
+{
+  "name": "find-your-dudes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel  index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-flatpickr": "^3.7.1"
+  },
+  "devDependencies": {
+    "sass": "^1.17.0"
+  }
+}
