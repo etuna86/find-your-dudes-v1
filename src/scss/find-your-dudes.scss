@@ -289,8 +289,9 @@
 
         .my-games-bottom
         {
-            position: absolute;
-            bottom:0px;
+            position: relative;
+            bottom: 0px;
+            margin: 20px 0px 0px 0px;
             .my-games-search
             {
                 bottom: 0px;
