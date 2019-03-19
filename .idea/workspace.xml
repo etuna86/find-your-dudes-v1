@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="244be2ea-ebb7-4131-bf61-9eb69cdf6a4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/3f/6506fce636142d042145be3bf2642e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/3f/6506fce636142d042145be3bf2642e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/f0/6c08ff0df0717b5c29192a4592576f.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f0/6c08ff0df0717b5c29192a4592576f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/font-awesome.226b43c3.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/font-awesome.226b43c3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/font-awesome.min.197582b5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/font-awesome.min.197582b5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js.d818e0ef.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js.d818e0ef.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.d9ee62f6.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.d9ee62f6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.d9ee62f6.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.d9ee62f6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/material_green.50597d69.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/material_green.50597d69.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/find-your-dudes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/find-your-dudes.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scss/find-your-dudes.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="293" column="37" selection-start-line="293" selection-start-column="37" selection-end-line="293" selection-end-column="37" />
+            <state relative-caret-position="398">
+              <caret line="151" column="30" selection-start-line="151" selection-start-column="30" selection-end-line="151" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -69,6 +78,8 @@
       <find>354247</find>
       <find>title</find>
       <find>schedule</find>
+      <find>my-games-bottom</find>
+      <find>.col-md-3</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,8 +109,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="find-your-dudes-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="find-your-dudes-v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="find-your-dudes-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="find-your-dudes-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="find-your-dudes-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="find-your-dudes-v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,18 +170,19 @@
       <workItem from="1549781792779" duration="619000" />
       <workItem from="1550316269013" duration="63000" />
       <workItem from="1552200472109" duration="8966000" />
-      <workItem from="1552679298598" duration="24000" />
+      <workItem from="1552679298598" duration="371000" />
+      <workItem from="1553018876721" duration="1594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33796000" />
+    <option name="totallyTimeSpent" value="35737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -204,13 +237,6 @@
         <state relative-caret-position="-3276" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/find-your-dudes.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="293" column="37" selection-start-line="293" selection-start-column="37" selection-end-line="293" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3213">
@@ -236,6 +262,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/find-your-dudes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="151" column="30" selection-start-line="151" selection-start-column="30" selection-end-line="151" selection-end-column="30" />
         </state>
       </provider>
     </entry>

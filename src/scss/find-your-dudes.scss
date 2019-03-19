@@ -35,65 +35,47 @@
         .col-md-3
         {
             padding: 0px;
-            overflow-y: scroll;
-            /* width */
-            &::-webkit-scrollbar {
-                width: 5px;
-            }
-
-            /* Track */
-            &::-webkit-scrollbar-track {
-
-                background:none;
-            }
-
-            /* Handle */
-            &::-webkit-scrollbar-thumb {
-                background: $findyourdudesbordercolor;
-                border-radius: 10px;
-            }
-
-            /* Handle on hover */
-            &::-webkit-scrollbar-thumb:hover {
-                background:none;
-            }
+            overflow-y: hidden;
         }
         .col-md-6
         {
             padding: 0px;
             border-left:1px solid $findyourdudesbordercolor;
             border-right:1px solid $findyourdudesbordercolor;
-            overflow-y: scroll;
-            /* width */
-            &::-webkit-scrollbar {
-                width: 5px;
-                margin-right:-15px;
-                position: absolute;
-            }
+            overflow-y: hidden;
 
-            /* Track */
-            &::-webkit-scrollbar-track {
-
-                background:none;
-                margin-right:-15px;
-            }
-
-            /* Handle */
-            &::-webkit-scrollbar-thumb {
-                background: $findyourdudesbordercolor;
-                border-radius: 10px;
-            }
-
-            /* Handle on hover */
-            &::-webkit-scrollbar-thumb:hover {
-                background:none;
-            }
 
         }
     }
     .my-games
     {
+
         min-height: $minheight;
+        overflow-y: hidden;
+        /* width */
+        &::-webkit-scrollbar {
+            width: 5px;
+            margin-right:-15px;
+            position: absolute;
+        }
+
+        /* Track */
+        &::-webkit-scrollbar-track {
+
+            background:none;
+            margin-right:-15px;
+        }
+
+        /* Handle */
+        &::-webkit-scrollbar-thumb {
+            background: $findyourdudesbordercolor;
+            border-radius: 10px;
+        }
+
+        /* Handle on hover */
+        &::-webkit-scrollbar-thumb:hover {
+            background:none;
+        }
         .my-games-title
         {
             height:$titleheight;
@@ -221,6 +203,31 @@
     .my-games-inside
     {
         min-height: $minheight;
+        overflow-y: hidden;
+        /* width */
+        &::-webkit-scrollbar {
+            width: 5px;
+            margin-right:-15px;
+            position: absolute;
+        }
+
+        /* Track */
+        &::-webkit-scrollbar-track {
+
+            background:none;
+            margin-right:-15px;
+        }
+
+        /* Handle */
+        &::-webkit-scrollbar-thumb {
+            background: $findyourdudesbordercolor;
+            border-radius: 10px;
+        }
+
+        /* Handle on hover */
+        &::-webkit-scrollbar-thumb:hover {
+            background:none;
+        }
         .my-games-inside-title
         {
             height: $titleheight;
@@ -260,6 +267,31 @@
     .dudes-on-channels
     {
         min-height: $minheight;
+        overflow-y: hidden;
+        /* width */
+        &::-webkit-scrollbar {
+            width: 5px;
+            margin-right:-15px;
+            position: absolute;
+        }
+
+        /* Track */
+        &::-webkit-scrollbar-track {
+
+            background:none;
+            margin-right:-15px;
+        }
+
+        /* Handle */
+        &::-webkit-scrollbar-thumb {
+            background: $findyourdudesbordercolor;
+            border-radius: 10px;
+        }
+
+        /* Handle on hover */
+        &::-webkit-scrollbar-thumb:hover {
+            background:none;
+        }
         .on-channels-title
         {
             height: $titleheight;
@@ -289,7 +321,7 @@
 
         .my-games-bottom
         {
-            position: relative;
+            position: absolute;
             bottom: 0px;
             margin: 20px 0px 0px 0px;
             .my-games-search
